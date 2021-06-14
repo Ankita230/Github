@@ -5,3 +5,5 @@ Type option
 Colour
 vibrant
 Font
+Dark mode/Light mode
+
