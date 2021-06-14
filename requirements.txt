@@ -6,4 +6,8 @@ Colour
 vibrant
 Font
 Dark mode/Light mode
+new method-Payment 
+send money 
+receive money
+
 
